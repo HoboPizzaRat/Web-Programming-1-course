@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "80bf7a129cc8f2f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b0fb55b3ffbf6ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beaf273adfe45588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/4. part (functions)/1. invoking functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. invoking functions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be50e717de35fe46",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd375f4b06cec10a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "599068a08de3fa63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2b46b6fd42bf392",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e55c2fcfe33ea7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d53410896c4b88c",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b7d9ef1d3b284e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f108479c486246c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/4. part (functions)/1. invoking functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6a083ecc9fa61e9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/4. part (functions)/1. invoking functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7a50e586124f86bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "49f2112594a25217",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1b2bb27e6b1b8bfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/4. part (functions)/1. invoking functions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "beaf273adfe45588",
+  "lastOpenFiles": [
+    "Notes/3. part (controlling program flow)/7. do-while loop.md",
+    "Notes/4. part (functions)/1. invoking functions.md",
+    "Notes/4. part (functions)",
+    "Notes/3. part (controlling program flow)/6. while loop.md",
+    "Notes/3. part (controlling program flow)/5. For of and for in loop.md",
+    "Notes/3. part (controlling program flow)/4. For loops.md",
+    "Notes/3. part (controlling program flow)/3. using switch statement.md",
+    "Notes/3. part (controlling program flow)/2. logical comparisons.md",
+    "Notes/3. part (controlling program flow)/Untitled",
+    "Notes/3. part (controlling program flow)/1. Comparisons.md",
+    "Notes/2. part (using variables)/10. Array indexing.md",
+    "Notes/3. part (controlling program flow)",
+    "Notes/2. part (using variables)/9. Arrays.md",
+    "Notes/2. part (using variables)/8. Defining variables.md",
+    "Notes/2. part (using variables)/Untitled.md",
+    "Notes/2. part (using variables)/7. Parsing string into number.md",
+    "Notes/2. part (using variables)/6. Using numbers.md",
+    "Notes/2. part (using variables)/5. Selecting and setting html elements data to some value.md",
+    "Notes/2. part (using variables)/4. Obtaining data from the console.md",
+    "Notes/2. part (using variables)/3. Template literals.md",
+    "Notes/2. part (using variables)/Untitled",
+    "Notes/2. part (using variables)/2. Variable naming conventions.md",
+    "Notes/2. part (using variables)/1. Strings.md",
+    "Notes/0. intro/0. What is this book.md",
+    "Notes/1. part (javascript essentials)/7. Clydebank coffee shop intro.md",
+    "Notes/2. part (using variables)",
+    "Notes/1. part (javascript essentials)/8. Using variables.md",
+    "Notes/1. part (javascript essentials)/6. using semicolons (optional).md",
+    "Notes/1. part (javascript essentials)/5. using comments.md",
+    "Notes/1. part (javascript essentials)/6. using semicolons (optional)",
+    "Notes/1. part (javascript essentials)/4. Putting basic javascript into web page.md",
+    "Notes/1. part (javascript essentials)/3. Using alert.md",
+    "JavaScript-QuickStartGuide-main/02-Chapter 2 - Using Variables/02-03.js",
+    "JavaScript-QuickStartGuide-main/02-Chapter 2 - Using Variables/02-02.html",
+    "JavaScript-QuickStartGuide-main/02-Chapter 2 - Using Variables/02-01.js",
+    "JavaScript-QuickStartGuide-main/02-Chapter 2 - Using Variables",
+    "JavaScript-QuickStartGuide-main/01-Chapter 1 - Getting Started/coffee-cup.svg",
+    "Notes/0. intro/Pasted image 20260904092621.png",
+    "Notes/0. intro/Pasted image 20260904090558.png"
+  ]
+}
