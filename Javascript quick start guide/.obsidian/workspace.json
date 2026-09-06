@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/12. advanced javascript techniques/7. Handling errors.md",
+                "file": "Notes/15. jquery/i dont think i should focus on this.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Handling errors"
+              "title": "i dont think i should focus on this"
             }
           }
         ]
@@ -190,8 +190,22 @@
   },
   "active": "beaf273adfe45588",
   "lastOpenFiles": [
-    "Notes/12. advanced javascript techniques/6. Time on javascript.md",
+    "Notes/14. Javascript junk drawer/6. Regular expressions.md",
+    "Notes/15. jquery/i dont think i should focus on this.md",
+    "Notes/15. jquery",
+    "Notes/14. Javascript junk drawer/5. Eval function.md",
+    "Notes/14. Javascript junk drawer/4. The map method.md",
+    "Notes/14. Javascript junk drawer/3. Sets.md",
+    "Notes/14. Javascript junk drawer/2. The big integers.md",
+    "Notes/14. Javascript junk drawer/1. The window object.md",
+    "Notes/13. animating with javascript/1. Basic animation properties on javascript.md",
+    "Notes/14. Javascript junk drawer",
+    "Notes/12. advanced javascript techniques/9. Using cookies.md",
+    "Notes/13. animating with javascript",
+    "Notes/12. advanced javascript techniques/8. Using the arrow function.md",
     "Notes/12. advanced javascript techniques/7. Handling errors.md",
+    "Notes/12. advanced javascript techniques/Untitled",
+    "Notes/12. advanced javascript techniques/6. Time on javascript.md",
     "Notes/12. advanced javascript techniques/5. Other math operations.md",
     "Notes/12. advanced javascript techniques/4. generating random  numbers on javascript.md",
     "Notes/12. advanced javascript techniques/3. rounding values on javascript.md",
@@ -209,23 +223,9 @@
     "Notes/9. part (async javascript)/5. setting background tasks with timeout.md",
     "Notes/9. part (async javascript)/4. inline event handlers.md",
     "Notes/9. part (async javascript)/3. All different kinds of events that exist in javascript.md",
-    "Notes/9. part (async javascript)/2. Running code after page loads.md",
-    "Notes/8. part (Using the DOM)/5. Editing dom elements itself on javascript.md",
     "Notes/9. part (async javascript)",
-    "Notes/8. part (Using the DOM)/4. Changing elements class.md",
-    "Notes/8. part (Using the DOM)/3. Changing elements css properties.md",
-    "Notes/8. part (Using the DOM)/2. accessing elements on dom.md",
-    "Notes/2. part (using variables)/5. Selecting and setting html elements data to some value.md",
-    "Notes/1. part (javascript essentials)/2. logging to the console.md",
-    "Notes/1. part (javascript essentials)/4. Putting basic javascript into web page.md",
-    "Notes/1. part (javascript essentials)/5. using comments.md",
-    "Notes/1. part (javascript essentials)/7. Clydebank coffee shop intro.md",
     "Notes/8. part (Using the DOM)",
     "Notes/7. part (using json)",
-    "Notes/6. part (classes)/6. Iterating through objects keys",
-    "Notes/6. part (classes)",
-    "Notes/5. part (closures)",
-    "Notes/4. part (functions)",
     "JavaScript-QuickStartGuide-main/01-Chapter 1 - Getting Started/coffee-cup.svg",
     "Notes/0. intro/Pasted image 20260904092621.png",
     "Notes/0. intro/Pasted image 20260904090558.png"
